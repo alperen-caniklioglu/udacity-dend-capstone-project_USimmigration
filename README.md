@@ -344,10 +344,10 @@ spark.sql("""select visa_type,
 ## 8. Description of Files in the Repository
 
 __1. sql_queries.py__
-Python script contatining all sql statements used in this project.
+Python script containing all sql statements used in this project.
 
 __2. etl.py__
-Python script contaning the pipeline code.
+Python script containing the pipeline code.
 
 __3. tests_with_final_model.ipynb__
 Notebook used to test some analytical queries on final model.
