@@ -52,7 +52,7 @@ There are two datasets used as source data and a supplemental dataset which is d
 ### 2.3 I94 SAS Labels Descriptions
 
  - This supplementary data serves as dictionary for I94 Immigration Data which will be utilized to produce mappings between codes and labels. 
- - It will helpful to ensure higher level of data quality during the execution of the ETL process
+ - It will be utilized to ensure higher level of data quality during the execution of the ETL process
  - Data is accessible on Udacity project workspace using the path: 
    __/home/workspace/I94_SAS_Labels_Descriptions.SAS__
 
