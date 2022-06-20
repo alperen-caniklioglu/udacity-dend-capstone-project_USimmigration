@@ -356,7 +356,7 @@ Notebook used to test some analytical queries on final model.
 
 ## 9. How to run
 0. pip install pyspark (if pyspark not yet installed)
-1. Rund etl.py
+1. Run etl.py
 
 
 
